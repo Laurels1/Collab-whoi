@@ -1,2 +1,2 @@
 # Collab-whoi
-Collaborating with git hub at WHOI carpenter WS
+Collaborating with github at WHOI carpenter WS
