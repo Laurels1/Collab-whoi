@@ -19,12 +19,21 @@ When you click the **Knit** button a document will be generated that includes bo
 summary(cars)
 ```
 
+This life is a test... it is only a test.
+Had this been a real life you would have received further instructions as 
+to where to go and what to do.
+
 ## Including Plots
+*Being random today!*
 
 You can also embed plots, for example:
 
 ```{r pressure, echo=FALSE}
 plot(pressure)
 ```
+
+More randomness....
+
+Randomly writing random stuff...
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
